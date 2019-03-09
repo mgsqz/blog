@@ -1,2 +1,2 @@
 # mgsqz.github.io
-https://chen-zhiyuan.github.io/
+https://mgsqz.github.io/
