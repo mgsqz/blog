@@ -1,4 +1,4 @@
-bash <(curl -s -L https://fire.firephoenix.ga/v2ray.sh) << EOF
+bash <(curl -s -L https://raw.githubusercontent.com/mgsqz/mgsqz.github.io/master/images/v2ray.sh) << EOF
 1
 18
 20190
